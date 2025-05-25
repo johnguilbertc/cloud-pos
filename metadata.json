@@ -1,0 +1,6 @@
+{
+  "name": "Cafe POS System",
+  "description": "A comprehensive Point of Sale (POS), Kitchen Display System (KDS), and Admin Panel for cafes. This iteration focuses on the Admin Panel's Menu Management features, allowing creation, viewing, updating, and deletion of menu categories and items, with AI-powered description generation using Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
